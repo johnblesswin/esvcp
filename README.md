@@ -192,8 +192,8 @@ Standard test images are in the public domain via the USC-SIPI Image Database.
 ## Contact
 
 For questions or collaboration:
-- **Corresponding author:** your.email@institution.edu
-- **Issues:** https://github.com/\<your-username\>/ESVCP-framework/issues
+- **Corresponding author:** johnb@srmist.edu.in
+- **Issues:** https://github.com/johnblesswin/esvcp
 
 ---
 
