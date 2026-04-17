@@ -168,7 +168,7 @@ If you use this code or build on this work, please cite:
 
 ```bibtex
 @article{esvcp2026,
-  author  = {[Your Name] and [Co-authors]},
+  author  = {John Blesswin A},
   title   = {An Enhanced Semantic Visual Cryptographic Protocol (ESVCP) with
              Adaptive Error Diffusion and Multi-Layer LSB Embedding for
              Secure Multimedia Communications},
