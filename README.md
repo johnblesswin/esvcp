@@ -4,7 +4,6 @@
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2023a%2B-orange.svg)](https://www.mathworks.com/products/matlab.html)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-Scientific_Reports-green.svg)](#citation)
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](#)
 
 ---
@@ -13,7 +12,7 @@
 
 This repository contains the complete MATLAB implementation, experimental datasets, and figure-generation scripts for the paper:
 
-> **An Enhanced Semantic Visual Cryptographic Protocol (ESVCP) with Adaptive Error Diffusion and Multi-Layer LSB Embedding for Secure Multimedia Communications** — *Scientific Reports*, 2026.
+> **An Enhanced Semantic Visual Cryptographic Protocol (ESVCP) with Adaptive Error Diffusion and Multi-Layer LSB Embedding for Secure Multimedia Communications** — 
 
 The ESVCP framework introduces **three novel innovations** for secure multimedia steganography:
 
@@ -172,10 +171,7 @@ If you use this code or build on this work, please cite:
   title   = {An Enhanced Semantic Visual Cryptographic Protocol (ESVCP) with
              Adaptive Error Diffusion and Multi-Layer LSB Embedding for
              Secure Multimedia Communications},
-  journal = {Scientific Reports},
-  year    = {2026},
-  volume  = {16},
-  doi     = {10.1038/s41598-026-xxxxx-x}
+ 
 }
 ```
 
