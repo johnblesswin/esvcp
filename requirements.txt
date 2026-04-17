@@ -1,0 +1,22 @@
+# ESVCP — MATLAB Dependencies
+
+## Required
+MATLAB                          R2023a or later
+Image Processing Toolbox        any recent version
+
+## Optional (enhances functionality)
+Deep Learning Toolbox           for full U²-Net saliency inference
+Parallel Computing Toolbox      speeds up benchmark runs
+Statistics and Machine Learning Toolbox   for steganalysis feature extraction
+
+## Python (optional, for steganalysis comparison)
+Python 3.10+
+numpy >= 1.24
+scipy >= 1.11
+Pillow >= 10.0
+torch >= 2.0       (for YeNet / SRNet reproduction)
+
+## Tested Environments
+- MATLAB R2023b on Ubuntu 22.04, NVIDIA A100 80 GB
+- MATLAB R2024a on Windows 11, RTX 4090
+- MATLAB Online (free tier) — works with web image loading fallback
