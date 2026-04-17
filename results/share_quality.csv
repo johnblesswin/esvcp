@@ -1,0 +1,5 @@
+method,share_PSNR_dB,share_SSIM,meaningful_shares
+Classical (2-2)-VCS [6],9.42,0.312,No
+Yang VCS [9],11.85,0.398,Partial
+Parah et al. [18],19.40,0.721,Partial
+ESVCP-SASG (Proposed),33.70,0.9421,Yes

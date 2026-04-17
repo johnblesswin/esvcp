@@ -1,0 +1,8 @@
+method,embed_ms,extract_ms,hardware,real_time_capable
+HUGO [26],310,8,CPU,No
+WOW [27],285,7,CPU,No
+UNIWARD [28],420,9,CPU,No
+SteganoGAN [29],85,42,GPU A100,Partial
+Tang et al. [32],95,48,GPU A100,Partial
+ESVCP (GPU),72,38,GPU A100,Yes
+ESVCP (CPU),310,155,CPU Xeon,No

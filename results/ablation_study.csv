@@ -1,0 +1,6 @@
+configuration,PSNR_dB,SSIM,mean_PE_pct,note
+Full ESVCP,48.73,0.9961,51.90,All three innovations active
+Without AEDQ (fixed FS kernel),43.20,0.9891,51.45,AEDQ replaced with uniform Floyd-Steinberg
+Without MLCI (sequential LSB),48.10,0.9955,38.70,Sequential embedding without chaotic permutation
+Without SASG (classical VCS),47.85,0.9940,51.80,Classical noise-like VCS shares
+Without AEDQ and MLCI,42.50,0.9840,32.30,Only SASG active

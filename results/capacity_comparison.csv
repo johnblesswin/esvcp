@@ -1,0 +1,8 @@
+method,max_capacity_bpp,channel_utilisation,multi_plane,reference
+HUGO [26],1.0,Single LSB,No,[26]
+WOW [27],1.0,Single LSB,No,[27]
+UNIWARD [28],1.0,Single LSB,No,[28]
+Parah et al. [18],1.5,1.5 LSB planes,Partial,[18]
+SteganoGAN [29],4.4,CNN latent,Yes,[29]
+Tang et al. [32],2.0,Adaptive,Partial,[32]
+ESVCP (Proposed),3.82,3 planes x RGB,Yes,This work
