@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "ESVCP — Enhanced Semantic Visual Cryptographic Protocol"
+version: "1.0.0"
+date-released: "2026-04-17"
+authors:
+  - family-names: "[Your Surname]"
+    given-names: "[Your Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "[Your Institution]"
+license: "MIT"
+repository-code: "https://github.com/<your-username>/ESVCP-framework"
+url: "https://github.com/<your-username>/ESVCP-framework"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Your Surname]"
+      given-names: "[Your Name]"
+  title: >-
+    An Enhanced Semantic Visual Cryptographic Protocol (ESVCP) with
+    Adaptive Error Diffusion and Multi-Layer LSB Embedding for Secure
+    Multimedia Communications
+  journal: "Scientific Reports"
+  year: 2026
+  volume: 16
+  doi: "10.1038/s41598-026-xxxxx-x"
+keywords:
+  - steganography
+  - visual cryptography
+  - LSB embedding
+  - error diffusion
+  - chaotic maps
+  - multimedia security
+  - deep saliency
